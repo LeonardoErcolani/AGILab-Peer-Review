@@ -1,7 +1,7 @@
 # AGILab-Peer-Review
 
-We implement peer review 
-
+We implement the peer review for a LLM panel at choice.
+Technical details are @
 ## Link Arxiv
 https://arxiv.org/abs/2412.09385
 
