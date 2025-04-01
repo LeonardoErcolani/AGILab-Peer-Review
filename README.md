@@ -5,6 +5,9 @@ Technical details are at:
 #### Link Arxiv
 https://arxiv.org/abs/2412.09385
 
+
+The following chart illustrates the concet behind an Automated LLM's Peer Review System:
+
 <img width="612" alt="image" src="https://github.com/user-attachments/assets/cde5b587-a923-4dd9-98c9-ebb69d94abb6" />
 
 
