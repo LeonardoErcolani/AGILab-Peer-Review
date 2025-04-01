@@ -2,3 +2,5 @@ pandas>=2.0.0
 pingouin>=0.5.3
 seaborn>=0.12.0
 matplotlib>=3.7.0 
+os
+streamlit
