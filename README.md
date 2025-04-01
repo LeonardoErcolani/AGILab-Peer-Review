@@ -12,7 +12,9 @@ The following structure illustrates the concept behind an Automated LLM's Peer R
 
 ## LLM's Scores Evaluation: ICC Computation
 
-This project provides a **Streamlit-based web application** for evaluating LLM (Large Language Model) scores using **Intraclass Correlation Coefficients (ICC)**. The application allows users to upload a CSV file containing evaluation scores, filter the data, compute ICC values, and visualize the results through heatmaps.
+This app supports the scientific study on peer review among Large Language Models (LLMs). Before computing inter-rater agreement (ICC), responses from multiple LLMs are collected on a forecasting task, and each model is then asked to evaluate all responses using predefined criteria. This tool allows researchers to upload those evaluation scores, filter the data, and analyze model agreement through ICC metrics and heatmaps.
+
+This repository provides a **Streamlit-based web application** for evaluating LLM (Large Language Model) scores using **Intraclass Correlation Coefficients (ICC)**. The application allows users to upload a CSV file containing evaluation scores, filter the data, compute ICC values, and visualize the results through heatmaps.
 
 ### Features
 

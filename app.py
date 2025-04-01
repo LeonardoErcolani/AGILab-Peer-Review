@@ -7,7 +7,8 @@ st.set_page_config(layout="wide", page_title="LLM's Scores Evaluation: ICC Compu
 
 # Title and instructions
 st.title("📊 LLM's Scores Evaluation: ICC Computation")
-st.markdown("Upload a **CSV file** containing LLM evaluation scores and compute **Intraclass Correlation Coefficients (ICC)**.")
+st.markdown("This app supports a scientific study on peer review among Large Language Models (LLMs) (https://arxiv.org/abs/2412.09385). Before computing inter-rater agreement (ICC), responses from multiple LLMs are collected on a forecasting task, and each model is then asked to evaluate all responses using predefined criteria. This tool allows "
+"researchers to upload those evaluation scores, filter the data, and analyze model agreement through ICC metrics and heatmaps.")
 
 # **Two Side-by-Side Containers**
 container_left, container_right = st.columns([1, 2])  # Left (Filters) | Right (ICC Results + Heatmaps)
